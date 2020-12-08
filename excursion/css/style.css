@@ -1,0 +1,53 @@
+html {
+    background-color: black;
+    font-family: Verdana;
+    color: white;
+}
+
+header {
+    display: block;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+    margin: auto;
+}
+
+a {
+    color: aquamarine;
+    margin: auto;
+    font-size: 16px;
+}
+
+.phone-video {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.description h2 {
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+}
+
+.description h3 {
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+figure {
+    text-align: center;
+}
+
+.coming-soon {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+footer h3 {
+    color: gray;
+    text-align: right;
+}
